@@ -32,6 +32,7 @@ To pass your login info just create file login.txt in resources directory. File 
 >To do:
 - recieving data from Twitter (saved in database) and creating tweets with those data, eg. most popular tweets sent 
 in particular country in last 24 hours,
-- sending weather forecast (downloaded from external API) for given region/s.
+- sending weather forecast (downloaded from external API) for given region/s,
+- rewriting Interval Controller to utilise Spring functionalities.
 
 
